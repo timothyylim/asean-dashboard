@@ -1,4 +1,5 @@
 - [Home](/)
 - [Organisations](organisations.md)
 - [CFIL Malaysia](cfil.md)
+- [CFIL Cohort 1 Projects (PDF)](cfil-cohort1-projects.pdf)
 - [Hubs](hubs.md)
